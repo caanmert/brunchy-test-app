@@ -1,0 +1,14 @@
+.container {
+  max-width: 449.58px;
+  width: 100%;
+  padding: 40px 40px;
+  background: #f9f6f6;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 100px;
+}
+
+.container .total {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,20 @@
+.title {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 65px;
+  color: #363636;
+
+  span {
+    color: #f17c0f;
+  }
+}
+
+.subTitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+
+@media only screen and (max-width: 1100px) {
+}
