@@ -80,7 +80,6 @@ export const ShoppingCardProvider = ({ children }: ShoppingCartProviderProps) =>
   };
 
   const removeAllCartItems = () => {
-    console.log("removeall");
     setCartItems([]);
   };
 
